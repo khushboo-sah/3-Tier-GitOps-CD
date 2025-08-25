@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: in30minthing/backend:694535bf15cb7328bd153687abca4167a3fd083a
+          image: in30minthing/backend:561a9f06b39833db8cc78417c50136833c351b8e
           ports:
             - containerPort: 5000
           env:
