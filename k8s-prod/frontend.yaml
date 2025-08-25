@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: in30minthing/frontend:561a9f06b39833db8cc78417c50136833c351b8e
+          image: in30minthing/frontend:b75f0558ca27a5e75f8a55558b648b6cacd74617
           ports:
             - containerPort: 80
 ---
